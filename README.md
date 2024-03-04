@@ -17,4 +17,4 @@ Here are some ideas to get you started:
 
 Hi there!
 Sonali here. I am trying to learn git.
-I am interested in other technologies like Java and Javascript
+I am also interested in other technologies like Java and Javascript.
