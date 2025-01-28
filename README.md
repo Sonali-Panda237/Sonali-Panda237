@@ -15,6 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Hi there!
-Sonali here. I am trying to learn git.
-I am also interested in other technologies like Java and Javascript.
+Hi, I’m Sonali! I’m learning Git and exploring technologies like Java and JavaScript. I’m proficient in Java, HTML, CSS, JavaScript, and SQL, with experience in Spring Boot, Vue.js, and PostgreSQL. I’m also familiar with Agile practices, Git, and IntelliJ for version control and development.
